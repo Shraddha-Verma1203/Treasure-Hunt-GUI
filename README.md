@@ -1,14 +1,21 @@
-<p align="center">
-  <img src="banner.png" alt="Treasure Hunt GUI Banner">
-</p>
+<img src="assets/Treasure-Hunt-GUI-banner.png" width="100%">
 
 # 🏴‍☠️ Treasure Hunt GUI
 
-# 🏴‍☠️ Treasure Hunt GUI
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Swing](https://img.shields.io/badge/Java-Swing-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > An interactive Java Swing-based Treasure Hunt Simulation that uses graph concepts, weighted paths, and destination-based treasure collection to visualize route planning and treasure discovery.
 
 ---
+
+## Problem Statement
+
+Traditional graph learning can feel abstract and difficult to visualize.
+
+This project was developed to provide an interactive environment where users can create graph structures, assign destinations, and simulate treasure-hunting routes through a visual interface.
 
 ## 📌 Project Overview
 
@@ -42,6 +49,15 @@ The project combines Object-Oriented Programming principles with graph-based con
 
 ---
 
+## Concepts Demonstrated
+
+- Graph Data Structures
+- Directed Weighted Graphs
+- Event Driven Programming
+- Object-Oriented Programming
+- GUI Design
+- Simulation Systems
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
@@ -54,6 +70,18 @@ The project combines Object-Oriented Programming principles with graph-based con
 | Git & GitHub | Version Control |
 
 ---
+
+## Architecture Diagram
+
+User Actions
+      ↓
+GUI Layer
+      ↓
+Graph Engine
+      ↓
+Simulation Logic
+      ↓
+Results Panel
 
 ## 📂 Project Structure
 
