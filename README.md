@@ -1,4 +1,6 @@
-<img src="assets/Treasure-Hunt-GUI-banner.png" width="100%">
+<p align="center">
+  <img src="assets/Treasure-Hunt-GUI-banner.png" width="100%">
+</p>
 
 # 🏴‍☠️ Treasure Hunt GUI
 
@@ -121,38 +123,28 @@ src/TreasureHuntGUI.java
 Run the main class.
 
 ---
+## 📸 Screenshots
 
-# 📸 Screenshots
+### Main Simulation Graph
 
-## Main Simulation Graph
+![Main Graph](assets/Simulation%20graph%20screenshot-TreasurehuntGUI.jpeg)
 
-![Main Graph](Simulation%20graph%20screenshot-TreasurehuntGUI.jpeg)
+### Load Demo Graph
 
----
+![Load Demo Graph](assets/load%20demo%20graph%20screenshot-TreasurehuntGUI.jpeg)
 
-## Load Demo Graph
+### Simulation Result 1
 
-![Load Demo Graph](load%20demo%20graph%20screenshot-TreasurehuntGUI.jpeg)
+![Result 1](assets/Result%20Screenshot-%20TreasurehuntGUI.jpeg)
 
----
+### Simulation Result 2
 
-## Simulation Result 1
+![Result 2](assets/Result%20Screenshot2-TreasurehuntGUI.jpeg)
 
-![Result 1](Result%20Screenshot-%20TreasurehuntGUI.jpeg)
+### Simulation Result 3
 
----
+![Result 3](assets/Result%20Screenshot3-TreasurehuntGUI.jpeg)
 
-## Simulation Result 2
-
-![Result 2](Result%20Screenshot2-TreasurehuntGUI.jpeg)
-
----
-
-## Simulation Result 3
-
-![Result 3](Result%20Screenshot3-TreasurehuntGUI.jpeg)
-
----
 
 ## 💡 Key Learning Outcomes
 
